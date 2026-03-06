@@ -2,6 +2,9 @@
 
 This project contains a flexible PowerShell script (`backup_personal.ps1`) designed to back up files from multiple sources, including Android devices and local drives, to a central backup location.
 
+<img width="871" height="476" alt="terminal" src="https://github.com/user-attachments/assets/9f27d653-6332-4c66-9977-fed0680223a3" />
+
+
 ## Requirements
 
 - **An Android device**. This script relies on ADB, so iOS devices are not supported.
