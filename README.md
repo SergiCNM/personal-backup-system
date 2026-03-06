@@ -1,6 +1,6 @@
-# Phone Backup Script
+# Personal Backup Script
 
-This project contains a simple PowerShell script (`backup_personal.ps1`) to back up photos from an Android phone (specifically configured for a POCO F5) to a local PC environment.
+This project contains a flexible PowerShell script (`backup_personal.ps1`) designed to back up files from multiple sources, including Android devices and local drives, to a central backup location.
 
 ## Requirements
 
