@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "android",
+      "path": "/sdcard/DCIM/Camera",
+      "destination": "F:\\BACKUPS\\PERSONAL\\POCO F5\\Camera"
+    },
+    {
+      "type": "android",
+      "path": "/sdcard/WhatsApp/Media/WhatsApp Images",
+      "destination": "F:\\BACKUPS\\PERSONAL\\POCO F5\\WhatsApp\\Media\\WhatsApp Images"
+    },
+    {
+      "type": "android",
+      "path": "/sdcard/WhatsApp/Media/WhatsApp Video",
+      "destination": "F:\\BACKUPS\\PERSONAL\\POCO F5\\WhatsApp\\Media\\WhatsApp Video"
+    }
+  ]
+}
